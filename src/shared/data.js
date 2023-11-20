@@ -1,0 +1,48 @@
+export let data = [
+  {
+    member: "JJangGu",
+    id: 0,
+    name: "dylan o brien",
+    content: "came across good",
+    isShown: false,
+    isEditing: false,
+    KR_NAME: "짱구",
+  },
+  {
+    member: "MaengGu",
+    id: 1,
+    name: "chacecrawford",
+    content: "utterly attractive man ",
+    isShown: false,
+    isEditing: false,
+    KR_NAME: "맹구",
+  },
+  {
+    member: "ChulSu",
+    id: 2,
+    name: "hasltonSAge",
+    content: "adoreable girl that living in the world ,  ",
+    isShown: false,
+    isEditing: false,
+    KR_NAME: "철수",
+  },
+  {
+    member: "Hun",
+    id: 3,
+    name: "blakelively",
+    content: "gorgeous woman ",
+    isShown: false,
+    isEditing: false,
+    KR_NAME: "훈이",
+  },
+  {
+    member: "Yuri",
+    id: 4,
+    name: "yuna",
+    content:
+      "perfect, but she is kind of .....it's kind of tricky to familliar with her and getting now each other. so you would better be careful and blah blah blah blah  ",
+    isShown: false,
+    isEditing: false,
+    KR_NAME: "유리",
+  },
+];
